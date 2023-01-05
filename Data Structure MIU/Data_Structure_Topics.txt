@@ -1,0 +1,50 @@
+MIT scratch{not for myself}, shonibar --> python if statement porjonto exam,
+
+24-05-2022:
+NAND to Tetris
+
+04-02-2022:
+
+07-06-2022:
+static array
+14-06-2022:
+set_at,
+dynamic array:
+    extra functions from static array: insert_at, delete_at, insert_first(x), insert_last(x), delete_first(), delete_last()
+linked list:
+
+
+18-06-2022:
+
+21-06-2022:
+    0. ADT/API
+    1. Function definition
+    2. Asymptotic complexity run time
+    3. Code Implementation
+    4. Problem solving
+
+    code --> ArraySeq, linked_list01
+
+25-06-2022:
+    Linked_list, self, delete_at --> have to understand, module-2 --> read and understand --> home work, hacker rank --> array - DS --> have to solve,
+     print elements of a linked list, insert a node at the head of a linked list,
+     insert a node at the tail of a linked list, try --> delete a node, insert a node at the tail of a linked list,
+
+28-06-2022:
+    array ds, printLinkedList, insert_tail, insertNodeAtHead, insertNodeAtPosition
+
+06-08-2022:
+    stack, infix, prefix, postfix expression,
+
+13-08-2022:
+    queue, deque, priority queue, tree, binary tree,
+
+16-08-2022:
+    Tree Traversal, Preorder, Postorder, Inorder,
+
+20-08-2022:
+    Directed graph, undirected graph, adjacency matrix, adjacency list, graph traversal, --> depth first traversal, breadth first traversal,
+    building graph,
+
+23-08-2022:
+    difference between bfs-dfs, tree, tree *** traversal path, preorder, inorder, post order, algorithm + implementation, queue/dequeue sheet, stack from sheet,

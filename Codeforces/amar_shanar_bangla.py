@@ -1,0 +1,7 @@
+print("amar shonar hello")
+print("Hello World!")
+print("Hello World 2")
+print("It is just some characters")
+print("I have not time to code now")
+print("See you latter")
+print("I will code tomorrow, inshallah.")

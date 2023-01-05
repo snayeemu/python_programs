@@ -1,0 +1,50 @@
+17-09-2022:
+    recursion
+18-09-2022:
+    recursion, algorithms introduction, gcd algorithm
+24-09-2022:
+    pseudocode, five important features of algorithm(*** for exam), algorithm design technique--> brute force, divide and conquer,
+    decrease and conquer, the greedy method, dynamic programming, data structure and algorithms, sequential/linear search,
+    running time of linear search, bubble sort(next class), home work--> compare two given algorithm,
+25-09-2022:
+    Bubble Sort,
+01-10-2022:
+    selection sort --> brute force algorithm,insertion sort,
+02-10-2022:
+    time function T(n), characteristics of scientific approach,
+****************************** NEW ************************************
+16-10-2022:
+    Euclid's Algorithm (GCD), Algorithm definition, google colab, properties of an Algorithm, Checking prime number,
+    ClassRoom Code --> abgnlsj,
+22-10-2022:
+    Algorithms_Midterm_organized.pdf, running time, O(n) --> linear, O(n^2) --> quadratic, O(n^3) --> Cubic, O(logn) --> logn, O(nlogn) --> nlogn,
+    selection sort, insertion sort,
+23-10-2022:
+    Algo Basics, Running Time Analysis, (Insertion, Selection, Bubble sort) --> running time Analysis, Recursion,
+    factorial, fibonacci, recursion tree*, Tower of Hanoi,
+*****************************************************************************************************************************
+After mid.
+12-11-2022:
+    divide and conquer --> (Merge Sort, ), **assignment Implement merge sort,
+13-11-2022:
+    mergeSort function --> time complexity, graph theory intro & overview --> (Brief introduction, undirected graph, directed graph, weighted graphs,
+     Special Graphs --> (trees, Directed Acyclic graphs (DAGs), bipartite graph, complete graphs, Representing Graphs ---> (adjacency matrix --> (pros, cons),
+      adjacency list, edge list))
+19-11-2022:
+    **assignment-->(hackerrank), Final project --> (Manim --> (Math Animation), python library), graph --> (code), graph in manim, Common Graph Theory Problems -->
+     (Shortest ptah problem, Connectivity, negative cycles, traveling salesman problem, Bridges, ),
+20-11-2022:
+    Common Graph theory Problem --> (Shortest path problem --> (BFS), Connectivity, Negative Cycle, Minimum Spanning Tree, )
+    Graph theory  --> (DFS overview --> (Basic DFS*), Code, Connected Components, )
+26-11-2022:
+    Surprise Quiz Mark: 5, BFS overview --> (Code), shortest path using BFS --> (Code), Project Assignment *** (manim graph for visualize BFS)
+27-11-2022:
+    BFS, Topological Sort, topological ordering, Directed Acyclic Graphs(DAG), Topological Sort Algorithm, topological ordering code,
+    assignment on topological sort related problem, Dijktra's Shortest Path Algorithm, What is Dijkstra's algorithm,
+03-12-2022:
+    dijkshra's algorithm, Bellmen ford's algorithm, dynamic programming(DP --> (recursion, memoization, )), time complexity of recursive fibo,
+     next class --> time complexity of dynamic fibo,
+12-11-2022:
+    Greedy Algorithm -->(An algorithm that always takes the best immediate, or local, solution while finding an answer), (Minimum Spanning Tree, Prim's Algorithm, )
+    single source shortestPath -->  (BFS, Dikstra's, Bellman Ford --> (negative cycle detect))
+    Folyd Worshall's Algorithm --> (All pair shortest path algorithm, ), Longest Common Subsequence,
